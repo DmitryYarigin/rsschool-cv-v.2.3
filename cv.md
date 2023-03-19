@@ -41,6 +41,7 @@ game snake(html,js,canvas),calculator(html,css,js)
 - FreeCodeCamp
 - CodeCademy
 - books on js, html, css
+- RSschool
 
 ---
 
